@@ -1,5 +1,4 @@
 ## Привет 👋, Меня зовут Женя  
-  
 
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -7,12 +6,14 @@
 <a href="https://t.me/dzoric1">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
 </a>
-  
+
+  <br>
+
 Я начинающий Frontend разработчик, стремящийся к развитию в области веб-разработки. <br>
 
-Я готов принять новые вызовы и активно учиться, чтобы стать ценным членом команды разработчиков.   
+Я готов принять новые вызовы и активно учиться, чтобы стать ценным членом команды разработчиков.
 
-## Languages and Tools  
+## Технологии
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
@@ -26,13 +27,7 @@
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="75" /></a>  
 </div>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Статистика
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzoric1&theme=default" align="left" style="width: 340px" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dzoric1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoric1&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoric1&hide_border=true&layout=compact" align="left" style="width: 350px" />
